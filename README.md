@@ -1,2 +1,2 @@
-# RPS-game1
+TicTacToe
 Game deployment 
